@@ -1,2 +1,2 @@
-print('hello world')
-print('이건 기능 1 폴더')
+a = 10
+b = "hello world -- 1"
