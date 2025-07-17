@@ -1,1 +1,1 @@
-print('hell word')
+print('hell0 word')
